@@ -1,6 +1,6 @@
 // =============================================
-// Discord Quest 自动刷任务 0.2.1 - 修复 localStorage 错误版
-// 0.2 → 0.2.1（已修复 localStorage）
+// Discord Quest 自动刷任务 0.3 - 修复 localStorage 错误版
+// 0.2 → 0.3（已修复 localStorage）
 // 使用方法: Discord 桌面端 → Ctrl+Shift+I → Console → 全选粘贴
 // =============================================
 
